@@ -1,0 +1,13 @@
+# Jangan pernah masuk repo publik
+*.gs
+appsscript.json
+.clasp.json
+.clasprc.json
+*.csv
+*.xlsx
+*.xls
+*kredensial*
+*sandi*
+.env*
+.DS_Store
+Thumbs.db
